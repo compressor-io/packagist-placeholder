@@ -1,0 +1,7 @@
+{
+  "name": "compressor/placeholder",
+  "description": "Holds the compressor vendor name on Packagist for Compressor.io. Installs nothing: the PHP SDK is compressor/compressor.",
+  "type": "metapackage",
+  "license": "MIT",
+  "homepage": "https://compressor.io"
+}
